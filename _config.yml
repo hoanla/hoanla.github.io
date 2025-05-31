@@ -48,7 +48,7 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hla@ttu.con"
+  email: "hla@ttu.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: hoanla
   twitter: lanalattu
