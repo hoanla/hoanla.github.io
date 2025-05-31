@@ -2,46 +2,55 @@
 layout: page
 title: ""
 ---
-<style>
-  .profile-container {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 20px;
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 20px;
-}
+</style>
+.profile-container {
+    display: flex;
+    align-items: stretch;       /* Stretch children to same height */
+    justify-content: space-between;
+    gap: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+  }
 
-.profile-text {
-  flex: 2;             /* text gets twice the space */
-  font-size: 1.1rem;
-  line-height: 1.6;
-  min-width: 300px;    /* prevents text from shrinking too much */
-}
-
-.profile-photo {
-  flex: 1;             /* photo gets half the space of text */
-  max-width: 350px;    /* limit max width so it doesn't get too large */
-}
-
-.profile-photo img {
-  width: 100%;         /* fill the container */
-  height: auto;
-  border-radius: 8px;
-}
-
-@media (max-width: 700px) {
-  .profile-container {
-    flex-direction: column;
+  .profile-text {
+    flex: 2;                    /* Text takes 2/3 space */
+    font-size: 1.1rem;
+    line-height: 1.6;
+    min-width: 300px;
   }
 
   .profile-photo {
-    width: 100%;
-    max-width: none;
-    margin-top: 20px;
+    flex: 1;                    /* Photo takes 1/3 space */
+    max-width: 350px;
+    height: auto;
   }
-}
+
+  .profile-photo img {
+    width: 100%;
+    height: 100%;               /* Stretch to fill parent height */
+    object-fit: cover;          /* Crop to fill without distortion */
+    border-radius: 8px;
+  }
+
+  @media (max-width: 700px) {
+    .profile-container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .profile-photo {
+      width: 100%;
+      max-width: none;
+      margin-top: 20px;
+      height: auto;
+    }
+
+    .profile-photo img {
+      height: auto;
+      object-fit: contain;
+    }
+  }
 </style>
 
 <div class="profile-container">
