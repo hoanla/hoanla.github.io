@@ -20,7 +20,6 @@ author: Lana La
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Research: "research"
   Teaching: "teaching"
   CV: "cv"
