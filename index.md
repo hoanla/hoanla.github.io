@@ -2,8 +2,8 @@
 layout: page
 title: ""
 ---
-</style>
- .profile-container {
+<style>
+.profile-container {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
