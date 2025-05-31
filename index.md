@@ -14,19 +14,17 @@ title: ""
 }
 
 .profile-text {
-  flex: 2;             /* text gets twice the space */
+  flex: 1;
   font-size: 1.1rem;
   line-height: 1.6;
-  min-width: 300px;    /* prevents text from shrinking too much */
 }
 
 .profile-photo {
-  flex: 1;             /* photo gets half the space of text */
-  max-width: 350px;    /* limit max width so it doesn't get too large */
+  flex: 0 0 250px;
 }
 
 .profile-photo img {
-  width: 100%;         /* fill the container */
+  max-width: 100%;
   height: auto;
   border-radius: 8px;
 }
@@ -38,7 +36,6 @@ title: ""
 
   .profile-photo {
     width: 100%;
-    max-width: none;
     margin-top: 20px;
   }
 }
