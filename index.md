@@ -4,29 +4,39 @@ title: ""
 ---
 
 <style>
-.profile-container {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  flex-wrap: nowrap;
-  gap: 40px;
-  max-width: 1000px;
-  margin-top: 20px;
-}
+  .profile-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+  }
 
-.profile-text {
-  flex: 1;
-}
+  .profile-text {
+    flex: 1;
+    font-size: 1.1rem;
+    line-height: 1.5;
+  }
 
-.profile-photo {
-  flex-shrink: 0;
-}
+  .profile-photo {
+    flex: 0 0 250px;
+  }
 
-.profile-photo img {
-  width: 300px;
-  height: auto;
-  border-radius: 10px;
-}
+  .profile-photo img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  @media (max-width: 600px) {
+    .profile-container {
+      flex-direction: column;
+    }
+
+    .profile-photo {
+      flex: none;
+      margin-top: 15px;
+      width: 100%;
+    }
+  }
 </style>
 
 <div class="profile-container">
@@ -40,4 +50,3 @@ title: ""
     <img src="/assets/img/IMG_8447.JPG" alt="Lana photo">
   </div>
 </div>
-
