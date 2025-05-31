@@ -5,7 +5,7 @@ title: "Teaching"
 
 ---
 ### Instructor of Record
-POLS-2361-003 International Politics (Spring 2025)
+POLS-2361-003 International Politics (Spring 2025) - [Syllabus here](/assets/POLS-2361-Syllabus.pdf)
 
 ### Teaching Assistant
 <p>POLS-3365 War and Security (Fall 2024)}<p>
