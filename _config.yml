@@ -50,9 +50,9 @@ navbar-links:
 social-network-links:
   email: "hla@ttu.con"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: https://github.com/hoanla
-  twitter: https://x.com/lanalattu
-  linkin: https://www.linkedin.com/in/hoanla/
+  github: hoanla
+  twitter: lanalattu
+  linkin: hoanla
 # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
