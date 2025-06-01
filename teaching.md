@@ -4,10 +4,10 @@ title: "Teaching"
 
 
 ---
-### Instructor of Record
+### Instructor of Record, Department of Political Science, Texas Tech University
 POLS-2361-003 International Politics (Spring 2025) - [Syllabus](/assets/POLS 2361_International_Politics_S2025.pdf)
 
-### Teaching Assistant
+### Teaching Assistant, Department of Political Science, Texas Tech University
 <p>POLS-3365 War and Security (Fall 2024)}<p>
 <p>POLS-3300 Selected Topics in American Politics: Election Law (Fall 2024)<p>
 <p>POLS-3363 International Organization (Fall 2023 & Spring 2024)<p>
