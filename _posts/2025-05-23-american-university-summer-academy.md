@@ -2,9 +2,9 @@
 layout: post
 title: The American University Summer Academy
 subtitle: 
-cover-img: /assets/img/AU.jpg
-thumbnail-img: /assets/img/AU.png
-share-img: /assets/img/AU.jpg
+cover-img: /assets/img/au_academy2.JPG
+thumbnail-img: /assets/img/au_academy.JPG
+share-img: /assets/img/au_academy.JPG
 tags: [fellowship, summer academy]
 author: Lana
 ---
