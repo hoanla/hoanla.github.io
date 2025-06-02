@@ -5,7 +5,7 @@ subtitle:
 cover-img: /assets/img/au_academy2.JPG
 thumbnail-img: /assets/img/au_academy.JPG
 share-img: /assets/img/au_academy.JPG
-tags: [fellowship, summer academy]
+tags: [fellowship, summer academy, American University]
 author: Lana
 ---
 
