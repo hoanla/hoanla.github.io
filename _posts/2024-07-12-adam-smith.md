@@ -5,7 +5,7 @@ subtitle:
 cover-img: /assets/img/
 thumbnail-img: /assets/img/
 share-img: /assets/img/
-tags: [fellowship, summer academy, American University]
+tags: [fellowship, Adam Smith Fellowship]
 author: Lana
 ---
 
