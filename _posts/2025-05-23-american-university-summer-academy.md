@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SThe American University Summer Academy
+title: The American University Summer Academy
 subtitle: 
 cover-img: /assets/img/AU.jpg
 thumbnail-img: /assets/img/AU.png
