@@ -2,9 +2,9 @@
 layout: post
 title: One Year, Four Trips, Endless Ideas – My Time as an Adam Smith Fellow
 subtitle: 
-cover-img: /assets/img/
-thumbnail-img: /assets/img/
-share-img: /assets/img/
+cover-img: /assets/img/virginia.jpg
+thumbnail-img: /assets/img/virginia.jpg
+share-img: /assets/img/virginia.jpg
 tags: [fellowship, Adam Smith Fellowship]
 author: Lana
 ---
@@ -16,7 +16,7 @@ I met amazing peers from different disciplines, had the chance to engage with cl
 Huge thanks to Logan Hansen, our wonderful program manager, for making everything run so smoothly. I’ve learned a lot about political economy theory, about the craft of scholarship, and honestly, about myself too.
 
 <p align="center">
-  <img src="/assets/img/adam_smith.jpg" alt="Adam Smith" style="max-width: 600px; border-radius: 8px;">
+  <img src="/assets/img/adam_smith.jpg" alt="Adam Smith" style="max-width: 800px; border-radius: 10px;">
 </p>
 
 So thankful for this experience.
