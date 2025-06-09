@@ -16,7 +16,7 @@ I was honored to be one of the eleven fellows selected for The Summer Academy, a
 </p>
 
 <p align="center">
-  <img src="/assets/img/pic1.png" alt="Summer Academy" style="max-width: 600px; border-radius: 8px;">
+  <img src="/assets/img/pic1.jpeg" alt="Summer Academy" style="max-width: 600px; border-radius: 8px;">
 </p>
 
 The campus was beautiful, and the atmosphere was incredibly welcoming. I got to present my research and received thoughtful feedback from Professor Ken Meier, Professor Brandyn Churchill, and fellow participants. I also learned about publishing, professional networks, and the academic job market from some of the best in the field, including Professor Meier and Professor David Schwegman.
