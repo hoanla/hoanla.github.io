@@ -44,7 +44,7 @@ title: ""
 <div class="profile-container">
   <div class="profile-text">
     <p>I am Hoan La, also known as Lana, a PhD candidate in Political Science at Texas Tech University.</p>
-    <p>My research lies at the intersection of International Relations, Gender and Politics, and Public Administration. Broadly, I am interested in economic sanctions, armed conflicts, gender, international laws and norms, governance, state capacity, public opinion, and human security. </p>
+    <p>My research lies at the intersection of conflict, gender, state capacity, and global governance. The overarching goal of my work is to understand how domestic institutions, women’s representation, and international legal norms, individually and collectively, shape public opinion, state behavior, and human security in contexts such as sanctions, armed conflict, and post-crisis recovery. </p>
     <p>Before starting my Ph.D., I completed an M.P.A. from Murray State University (KY, USA) and a B.A. in Journalism from the Academy of Journalism and Communication (Hanoi, Vietnam). </p>
   </div>
 
