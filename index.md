@@ -44,7 +44,8 @@ title: ""
 <div class="profile-container">
   <div class="profile-text">
     <p>I am Hoan La, also known as Lana, a PhD candidate in Political Science at Texas Tech University.</p>
-    <p>My research lies at the intersection of International Relations, Gender and Politics, Public Administration, and Health. Broadly, I am interested in economic sanctions, armed conflicts, public opinion, gender, state capacity, governance, and health outcomes. One part of my agenda examines how female political representation, public opinion, and governance quality shape foreign policy outcomes, including decisions about war and peace. Another part focuses on how sanctions, conflicts, and administrative capacity influence public health, particularly women's health in developing countries, and how political will and state capacity moderate these effects.</p>
+    <p>My research lies at the intersection of International Relations, Gender and Politics, Public Administration, and Global Health. Broadly, I am interested in economic sanctions, armed conflicts, gender, governance, international laws and norms, public opinion, and health outcomes. One part of my agenda examines how female political representation, public opinion, and governance quality shape foreign policy decisions, including the use of sanctions, military force, and their termination. Another part focuses on how economic sanctions, armed conflict, and governance capacity affect health outcomes, with particular attention to women’s health in developing countries. A third line of inquiry focuses on how international laws and global gender norms shape state responses to international violations, patterns of foreign direct investment, and broader questions of human security. </p>
+
   </div>
 
   <div class="profile-photo">
