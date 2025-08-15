@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summer School in International Survey Methods - Vanderbitl University
+title: Great Summer in Nashville to Learn Survey Methods - Vanderbitl University
 subtitle: 
 cover-img: /assets/img/chicago.jpg
 thumbnail-img: /assets/img/chicago.jpg
