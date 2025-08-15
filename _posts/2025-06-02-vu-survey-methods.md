@@ -30,5 +30,4 @@ Outside of sessions, I got to explore Nashville again, its music, food, and live
   <img src="/assets/img/vb5.jpg" alt="ISA2025_2" style="max-width: 500px; border-radius: 8px;">
 </p>
 
-A huge thank you to everyone who made this experience possible. It’s a summer I’ll always remember!
-
+A huge thank you to my Department of Political Science for providing funding to make my participation in this program possible. It was an unforgettable summer that I’ll always cherish!
