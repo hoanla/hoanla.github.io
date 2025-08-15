@@ -3,7 +3,7 @@ layout: page
 title: "Research"
 
 ---
-### Peer-reviewed publications
+### Peer-reviewed Publications
 Tan, D., & La, H. (Accepted). Determinants of Post-sanction Economic Recovery. *Journal of Conflict Resolution*.
 
 
