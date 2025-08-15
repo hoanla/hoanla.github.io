@@ -2,9 +2,9 @@
 layout: post
 title: Great Summer in Nashville to Learn Survey Methods - Vanderbitl University
 subtitle: 
-cover-img: /assets/img/chicago.jpg
-thumbnail-img: /assets/img/chicago.jpg
-share-img: /assets/img/chicago.jpg
+cover-img: /assets/img/vb1.jpg
+thumbnail-img: /assets/img/vb1.jpg
+share-img: /assets/img/vb3.jpg
 tags: [ISA, volunteer experience]
 author: Lana
 ---
