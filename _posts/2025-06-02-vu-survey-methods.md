@@ -8,9 +8,13 @@ share-img: /assets/img/chicago.jpg
 tags: [ISA, volunteer experience]
 author: Lana
 ---
-This was my second time visiting Chicago and staying at Palmer House. The first was for MPSA 2024, and now I had the chance to return for the International Studies Association (ISA) Annual Convention. This time, I not only presented my research with my coauthor, Dongan Tan, and received valuable feedback, but I also volunteered for the conference.
+Back to Nashville for the Summer School in International Survey Methods at Vanderbilt University. Over two weeks, I had an incredible experience learning about survey design, data collection, and analysis in international contexts. The instructors were leaders in their fields, and every session offered practical insights I can apply in my own research.
 
-The schedule was pretty tight, but I had a lot of fun working alongside Dongan and other volunteers from around the world. Volunteering gave me a behind-the-scenes look at what it takes to organize such a huge event. I learned so much about the logistics, the little details, and the hard work involved in making the conference run smoothly.
+Vanderbilt’s campus was beautiful, and the atmosphere was warm and welcoming. I met fellow participants from all over the world and had great opportunities to connect outside the classroom. It was inspiring to be part of such a motivated and diverse community.
+
+Outside of sessions, I got to explore Nashville again, its music, food, and lively culture made the experience even more memorable. This summer wasn’t just about learning, it was a journey full of new skills, connections, and adventures.
+
+A huge thank you to everyone who made this experience possible. It’s a summer I’ll always remember!
 
 <p align="center">
   <img src="/assets/img/ISA2025_2.jpg" alt="ISA2025" style="max-width: 500px; border-radius: 8px;">
