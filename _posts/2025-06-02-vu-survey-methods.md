@@ -14,18 +14,21 @@ Vanderbilt’s campus was beautiful, and the atmosphere was warm and welcoming. 
 
 Outside of sessions, I got to explore Nashville again, its music, food, and lively culture made the experience even more memorable. This summer wasn’t just about learning, it was a journey full of new skills, connections, and adventures.
 
+<p align="center">
+  <img src="/assets/img/vb1" alt="ISA2025" style="max-width: 500px; border-radius: 8px;">
+</p>
+
+<p align="center">
+  <img src="/assets/img/vb2.jpg" alt="ISA2025_2" style="max-width: 500px; border-radius: 8px;">
+</p>
+
+<p align="center">
+  <img src="/assets/img/vb3.jpg" alt="ISA2025_2" style="max-width: 500px; border-radius: 8px;">
+</p>
+
+<p align="center">
+  <img src="/assets/img/vb5.jpg" alt="ISA2025_2" style="max-width: 500px; border-radius: 8px;">
+</p>
+
 A huge thank you to everyone who made this experience possible. It’s a summer I’ll always remember!
 
-<p align="center">
-  <img src="/assets/img/ISA2025_2.jpg" alt="ISA2025" style="max-width: 500px; border-radius: 8px;">
-</p>
-
-<p align="center">
-  <img src="/assets/img/ISA2025.jpg" alt="ISA2025_2" style="max-width: 500px; border-radius: 8px;">
-</p>
-
-
-
-A big thanks to the ISA organizers, especially Kat Folker, for making our volunteering experience so seamless and enjoyable.
-
-Looking forward to next time!
