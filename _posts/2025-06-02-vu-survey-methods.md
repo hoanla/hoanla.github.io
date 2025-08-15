@@ -15,19 +15,19 @@ Vanderbilt’s campus was beautiful, and the atmosphere was warm and welcoming. 
 Outside of sessions, I got to explore Nashville again, its music, food, and lively culture made the experience even more memorable. This summer wasn’t just about learning, it was a journey full of new skills, connections, and adventures.
 
 <p align="center">
-  <img src="/assets/img/vb1" alt="ISA2025" style="max-width: 500px; border-radius: 8px;">
+  <img src="/assets/img/vb1" alt="vb1" style="max-width: 500px; border-radius: 8px;">
 </p>
 
 <p align="center">
-  <img src="/assets/img/vb2.jpg" alt="ISA2025_2" style="max-width: 500px; border-radius: 8px;">
+  <img src="/assets/img/vb2.jpg" alt="vb2" style="max-width: 500px; border-radius: 8px;">
 </p>
 
 <p align="center">
-  <img src="/assets/img/vb3.jpg" alt="ISA2025_2" style="max-width: 500px; border-radius: 8px;">
+  <img src="/assets/img/vb3.jpg" alt="vb3" style="max-width: 500px; border-radius: 8px;">
 </p>
 
 <p align="center">
-  <img src="/assets/img/vb5.jpg" alt="ISA2025_2" style="max-width: 500px; border-radius: 8px;">
+  <img src="/assets/img/vb5.jpg" alt="vb5" style="max-width: 500px; border-radius: 8px;">
 </p>
 
 A huge thank you to my Department of Political Science for providing funding to make my participation in this program possible. It was an unforgettable summer that I’ll always cherish!
