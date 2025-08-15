@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Great Summer in Nashville to Learn Survey Methods - Vanderbitl University
+title: Great Summer in Nashville to Learn Survey Methods at Vanderbitl University
 subtitle: 
 cover-img: /assets/img/vb1.jpg
 thumbnail-img: /assets/img/vb1.jpg
