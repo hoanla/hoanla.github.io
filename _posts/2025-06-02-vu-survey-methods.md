@@ -5,7 +5,7 @@ subtitle:
 cover-img: /assets/img/vb1.jpg
 thumbnail-img: /assets/img/vb1.jpg
 share-img: /assets/img/vb3.jpg
-tags: [ISA, volunteer experience]
+tags: [Nashville, Summer Training, Survey Methods, Vanderbitl University]
 author: Lana
 ---
 Back to Nashville for the Summer School in International Survey Methods at Vanderbilt University. Over two weeks, I had an incredible experience learning about survey design, data collection, and analysis in international contexts. The instructors were leaders in their fields, and every session offered practical insights I can apply in my own research.
