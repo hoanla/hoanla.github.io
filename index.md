@@ -44,7 +44,7 @@ title: ""
 <div class="profile-container">
   <div class="profile-text">
     <p>I am Hoan La, also known as Lana, a PhD candidate in Political Science at Texas Tech University.</p>
-    <p>My research examines how domestic and international political dynamics shape public opinion, state behavior, human security, and economic outcomes. I focus on topics including gender and politics, economic sanctions, armed conflict, international law and norms, governance, post-crisis recovery, and the role of state capacity and institutions in global politics. </p>
+    <p>My research examines how domestic and international political dynamics shape state behavior - particularly conflict behavior, public opinion, human security, and economic outcomes. I focus on topics including gender and politics, economic sanctions, armed conflicts, international law and norms, governance, post-crisis recovery, and the role of state capacity and institutions in global politics. </p>
     <p>Before starting my Ph.D., I completed an M.P.A. from Murray State University (KY, USA) and a B.A. in Journalism from the Academy of Journalism and Communication (Hanoi, Vietnam). </p>
   </div>
 
