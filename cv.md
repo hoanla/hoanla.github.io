@@ -4,3 +4,4 @@ title: "CV"
 
 
 ---
+<embed src="/assets/files/La_CV.pdf" type="application/pdf" width="100%" height="800px" />
