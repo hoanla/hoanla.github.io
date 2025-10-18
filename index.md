@@ -44,7 +44,7 @@ title: ""
 <div class="profile-container">
   <div class="profile-text">
     <p>I am Hoan La, also known as Lana, a PhD candidate in Political Science at Texas Tech University.</p>
-    <p>My research examines how domestic governance and institutional capacity shape state behavior and policy outcomes in contexts of conflict, coercion, and social inequality. </p>
+    <p>My research and teaching interests include international security, political economy, governance and policy (domestic and foreign), gender, human rights and human security, and research methods. </p>
     <p>Before starting my Ph.D., I completed an M.P.A. from Murray State University (KY, USA) and a B.A. in Journalism from the Academy of Journalism and Communication (Hanoi, Vietnam). </p>
   </div>
 
