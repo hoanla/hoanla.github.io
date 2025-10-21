@@ -59,6 +59,7 @@ title: ""
       <a href="https://journals.sagepub.com/home/afs/"><em>Armed Forces &amp; Society</em></a>, 
       where I serve as a Junior Editor.
     </p>
+    <p>My research and teaching interests include international security, political economy, governance and policy (domestic and foreign), gender, human rights and human security, and research methods.</p>
   </div>
 
   <div class="profile-photo">
@@ -68,7 +69,6 @@ title: ""
 
 <!-- Remaining text section (full width) -->
 <div class="profile-body">
-  <p>My research and teaching interests include international security, political economy, governance and policy (domestic and foreign), gender, human rights and human security, and research methods.</p>
 
   <p>Before pursuing my Ph.D., I spent about six years at a research institute under Vietnam's Ministry of Planning and Investment (now part of 
     <a href="https://www.mof.gov.vn/">the Ministry of Finance</a>). This role provided me with valuable insights and expertise in translating scholarly research into actionable strategies for government policy and administration. This experience shaped my commitment to policy-engaged scholarship as I learned that rigorous research becomes most valuable when it addresses real governance challenges.
