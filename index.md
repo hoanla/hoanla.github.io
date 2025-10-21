@@ -2,8 +2,9 @@
 layout: page
 title: ""
 ---
+
 <style>
-.profile-container {
+.profile-intro {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
@@ -29,8 +30,16 @@ title: ""
   border-radius: 8px;
 }
 
+.profile-body {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
 @media (max-width: 700px) {
-  .profile-container {
+  .profile-intro {
     flex-direction: column;
   }
 
@@ -41,15 +50,33 @@ title: ""
 }
 </style>
 
-<div class="profile-container">
+<!-- Intro section: text + photo side by side -->
+<div class="profile-intro">
   <div class="profile-text">
-    <p>I am Hoan La, also known as Lana, a Ph.D. candidate in <a href="https://www.depts.ttu.edu/politicalscience/">the Department of Political Science</a> at Texas Tech University. I am currently part of the editorial team at <a href="https://journals.sagepub.com/home/afs/"><em>Armed Forces &amp; Society</em></a>, where I serve as a Junior Editor.</p>
-    <p>My research and teaching interests include international security, political economy, governance and policy (domestic and foreign), gender, human rights and human security, and research methods. </p>
-    <p>Before pursuing my Ph.D., I spent about six years at a research institute under Vietnam's Ministry of Planning and Investment (now part of <a href="https://www.mof.gov.vn/">the Ministry of Finance</a>). This role provided me with valuable insights and expertise in translating scholarly research into actionable strategies for government policy and administration. This experience shaped my commitment to policy-engaged scholarship as I learned that rigorous research becomes most valuable when it addresses real governance challenges.</p>
-     <p>I earned an M.P.A. from <a href="https://www.murraystate.edu/academics/CollegesDepartments/CollegeOfHumanitiesAndFineArts/politicalScienceandSociology/index.aspx/">Murray State University</a> (KY, USA) and a B.A. in Journalism from <a href="https://ajc.edu.vn/"> the Academy of Journalism and Communication</a> (Hanoi, Vietnam). </p>
+    <p>I am Lili La, also known as Lana, a Ph.D. candidate in 
+      <a href="https://www.depts.ttu.edu/politicalscience/">the Department of Political Science</a> 
+      at Texas Tech University. I am currently part of the editorial team at 
+      <a href="https://journals.sagepub.com/home/afs/"><em>Armed Forces &amp; Society</em></a>, 
+      where I serve as a Junior Editor.
+    </p>
   </div>
 
   <div class="profile-photo">
     <img src="/assets/img/IMG_8447.JPG" alt="Lana photo">
   </div>
+</div>
+
+<!-- Remaining text section (full width) -->
+<div class="profile-body">
+  <p>My research and teaching interests include international security, political economy, governance and policy (domestic and foreign), gender, human rights and human security, and research methods.</p>
+
+  <p>Before pursuing my Ph.D., I spent about six years at a research institute under Vietnam's Ministry of Planning and Investment (now part of 
+    <a href="https://www.mof.gov.vn/">the Ministry of Finance</a>). This role provided me with valuable insights and expertise in translating scholarly research into actionable strategies for government policy and administration. This experience shaped my commitment to policy-engaged scholarship as I learned that rigorous research becomes most valuable when it addresses real governance challenges.
+  </p>
+
+  <p>I earned an M.P.A. from 
+    <a href="https://www.murraystate.edu/academics/CollegesDepartments/CollegeOfHumanitiesAndFineArts/politicalScienceandSociology/index.aspx/">Murray State University</a> 
+    (KY, USA) and a B.A. in Journalism from 
+    <a href="https://ajc.edu.vn/">the Academy of Journalism and Communication</a> (Hanoi, Vietnam).
+  </p>
 </div>
