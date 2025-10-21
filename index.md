@@ -43,7 +43,7 @@ title: ""
 
 <div class="profile-container">
   <div class="profile-text">
-    <p>I am Lili Le, also known as Lana, a Ph.D. candidate in Political Science at Texas Tech University. I am currently part of the editorial team at Armed Forces & Society, where I serve as a Junior Editor.</p>
+    <p>I am Hoan La, also known as Lana, a Ph.D. candidate in [the Department of Political Science](https://www.depts.ttu.edu/politicalscience/) at Texas Tech University. I am currently part of the editorial team at [* *Armed Forces & Society* *](https://journals.sagepub.com/home/afs/), where I serve as a Junior Editor.</p>
     <p>My research and teaching interests include international security, political economy, governance and policy (domestic and foreign), gender, human rights and human security, and research methods. </p>
     <p>Before starting my Ph.D., I completed an M.P.A. from Murray State University (KY, USA) and a B.A. in Journalism from the Academy of Journalism and Communication (Hanoi, Vietnam). </p>
   </div>
