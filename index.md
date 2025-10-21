@@ -45,7 +45,7 @@ title: ""
   <div class="profile-text">
     <p>I am Hoan La, also known as Lana, a Ph.D. candidate in <a href="https://www.depts.ttu.edu/politicalscience/">the Department of Political Science</a> at Texas Tech University. I am currently part of the editorial team at <a href="https://journals.sagepub.com/home/afs/"><em>Armed Forces &amp; Society</em></a>, where I serve as a Junior Editor.</p>
     <p>My research and teaching interests include international security, political economy, governance and policy (domestic and foreign), gender, human rights and human security, and research methods. </p>
-    <p>Before starting my Ph.D., I completed an M.P.A. from <a href="https://www.murraystate.edu/academics/CollegesDepartments/CollegeOfHumanitiesAndFineArts/politicalScienceandSociology/index.aspx/">Murray State University</a> (KY, USA) and a B.A. in Journalism from the Academy of Journalism and Communication (Hanoi, Vietnam). </p>
+    <p>Before starting my Ph.D., I completed an M.P.A. from <a href="https://www.murraystate.edu/academics/CollegesDepartments/CollegeOfHumanitiesAndFineArts/politicalScienceandSociology/index.aspx/">Murray State University</a> (KY, USA) and a B.A. in Journalism from <a href="https://ajc.edu.vn/"> the Academy of Journalism and Communication</a> (Hanoi, Vietnam). </p>
   </div>
 
   <div class="profile-photo">
