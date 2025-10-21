@@ -53,7 +53,7 @@ title: ""
 <!-- Intro section: text + photo side by side -->
 <div class="profile-intro">
   <div class="profile-text">
-    <p>I am Lili La, also known as Lana, a Ph.D. candidate in 
+    <p>I am Hoan La, also known as Lana, a Ph.D. candidate in 
       <a href="https://www.depts.ttu.edu/politicalscience/">the Department of Political Science</a> 
       at Texas Tech University. I am currently part of the editorial team at 
       <a href="https://journals.sagepub.com/home/afs/"><em>Armed Forces &amp; Society</em></a>, 
