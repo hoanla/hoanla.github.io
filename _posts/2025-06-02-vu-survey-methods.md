@@ -2,9 +2,9 @@
 layout: post
 title: "Great Summer in Nashville to Learn Survey Methods at Vanderbilt University"
 subtitle: ""
-cover-img: /assets/img/vb1.jpg
-thumbnail-img: /assets/img/vb1.jpg
-share-img: /assets/img/vb3.jpg
+cover-img: /assets/img/vb1.JPG
+thumbnail-img: /assets/img/vb1.JPG
+share-img: /assets/img/vb3.JPG
 tags: [Nashville, Summer Training, Survey Methods, Vanderbilt University]
 author: Lana
 ---
@@ -16,7 +16,7 @@ Vanderbilt’s campus was beautiful, and the atmosphere was warm and welcoming. 
 Outside of sessions, I got to explore Nashville again — its music, food, and lively culture made the experience even more memorable. This summer wasn’t just about learning; it was a journey full of new skills, connections, and adventures.
 
 <p align="center">
-  <img src="/assets/img/vb1.jpg" alt="vb1" style="max-width: 500px; border-radius: 8px;">
+  <img src="/assets/img/vb1.JPG" alt="vb1" style="max-width: 500px; border-radius: 8px;">
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Outside of sessions, I got to explore Nashville again — its music, food, and l
 </p>
 
 <p align="center">
-  <img src="/assets/img/vb3.jpg" alt="vb3" style="max-width: 500px; border-radius: 8px;">
+  <img src="/assets/img/vb3.JPG" alt="vb3" style="max-width: 500px; border-radius: 8px;">
 </p>
 
 <p align="center">
