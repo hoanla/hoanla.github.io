@@ -59,7 +59,7 @@ title: ""
       <a href="https://journals.sagepub.com/home/afs/"><em>Armed Forces &amp; Society</em></a>, 
       where I serve as a Junior Editor.
     </p>
-    <p>My research and teaching interests include international security, political economy, governance and policy (domestic and foreign), gender, human rights and human security, and research methods.</p>
+    <p>My research examine how states exercise power through war and economic coercion, and how these tools of statecraft shape political behavior, human rights, and human security. I also study how governance quality and domestic politics shape the economic and humanitarian consequences of coercive statecraft. My work spans international security, political economy, and governance, with a particular focus on gender, state capacity, and public opinion. Methodologically, I use quantitative and experimental approaches.</p>
   </div>
 
   <div class="profile-photo">
