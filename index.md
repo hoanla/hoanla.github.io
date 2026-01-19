@@ -59,7 +59,7 @@ title: ""
       <a href="https://journals.sagepub.com/home/afs/"><em>Armed Forces &amp; Society</em></a>, 
       where I serve as a Junior Editor.
     </p>
-    <p>My research examine how states exercise power through war and economic coercion, and how these tools of statecraft shape political behavior, human rights, and human security. I also study how governance quality and domestic politics shape the economic and humanitarian consequences of coercive statecraft. My work spans international security, political economy, and governance, with a particular focus on gender, state capacity, and public opinion. Methodologically, I use quantitative and experimental approaches.</p>
+    <p>My research examine how states exercise power through war and economic coercion, and how these tools of statecraft shape political behavior, human rights, and human security. I also study how governance quality and domestic politics shape the economic and humanitarian consequences of coercive statecraft. </p>
   </div>
 
   <div class="profile-photo">
@@ -69,6 +69,8 @@ title: ""
 
 <!-- Remaining text section (full width) -->
 <div class="profile-body">
+
+<p> My work spans international security, political economy, and governance, with a particular focus on gender, state capacity, and public opinion. Methodologically, I use quantitative and experimental approaches.</p>
 
   <p>Before pursuing my Ph.D., I spent about six years at a research institute under Vietnam's Ministry of Planning and Investment (now part of 
     <a href="https://www.mof.gov.vn/">the Ministry of Finance</a>). This role provided me with valuable insights and expertise in translating scholarly research into actionable strategies for government policy and administration. This experience shaped my commitment to policy-engaged scholarship as I learned that rigorous research becomes most valuable when it addresses real governance challenges.
